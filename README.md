@@ -5,9 +5,9 @@
 
  <a href="https://github.com/VegaCenturion">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VegaCenturion&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&border_color=e6b800&title_color=e6b800"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api?username=VegaCenturion&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&border_color=e6b800&title_color=e6b800"/>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaCenturion&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&border_color=e6b800&title_color=e6b800"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaCenturion&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&border_color=e6b800&title_color=e6b800"/>
 
 </div> <br>
   <img align="center" alt="Vega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
