@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⟅太陽から選ばれ⟆
 
 <!--
 **VegaCenturion/VegaCenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
