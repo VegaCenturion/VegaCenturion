@@ -10,7 +10,7 @@
   <img align="center" alt="Vega-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vega-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 <img align="center" alt="Vega-PhP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Vega-pic" height="150" style="border-radius:50px;" src="https://github.com/VegaCenturion/VegaCenturion/blob/main/white%20demon.png">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/smwmcgThi3sZQ7i7O4/giphy.gif">
 </div>
   
   ##
@@ -18,4 +18,3 @@
 <div> 
   <a href="https://www.instagram.com/ph4xx3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/381856182098460672/381856182098460675" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/VegaCenturion/VegaCenturion/blob/main/.github/workflows/snake.yml)
