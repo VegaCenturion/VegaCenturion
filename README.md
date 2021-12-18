@@ -10,14 +10,29 @@
  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaCenturion&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&border_color=e6b800&title_color=e6b800"/>
 
 </div> <br>
+ 
+ ##
+ 
+<div>
+ <h3>Aprendendo Atualmente📚 👨‍🎓 </h3>
+  <ul>  
+	  <h5> - JavaScript (Básico/Intermediário)</h5>
+	  <h5> - Python (Intermediário)</h5>
+	  <h5> - PHP (Básico)</h5>
+	  <h5> - PostgreSQL (Básico)</h5>
+	  <h5> - HTML5</h5>
+	  <h5> - CSS3</h5>
+   <ul>
+</div>
   <img align="center" alt="Vega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vega-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vega-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vega-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-<img align="center" alt="Vega-PhP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/smwmcgThi3sZQ7i7O4/giphy.gif">
+  <img align="center" alt="Vega-PhP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Vega-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/smwmcgThi3sZQ7i7O4/giphy.gif">
+  <img align="center" alt="Vega-PgSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
   
   ##
