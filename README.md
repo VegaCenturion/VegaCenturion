@@ -14,7 +14,7 @@
  ##
  
 <div>
- <h3>Aprendendo Atualmente📚 👨‍🎓 </h3>
+ <h3>Aprendendo Atualmente 📚🎓 </h3>
   <ul>  
 	  <h5> - JavaScript (Básico/Intermediário)</h5>
 	  <h5> - Python (Intermediário)</h5>
