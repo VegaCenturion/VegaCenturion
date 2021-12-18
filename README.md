@@ -20,8 +20,8 @@
 	  <h5> - Python (Intermediário)</h5>
 	  <h5> - PHP (Básico)</h5>
 	  <h5> - PostgreSQL (Básico)</h5>
-	  <h5> - HTML5</h5>
-	  <h5> - CSS3</h5>
+	  <h5> - HTML5 (Intermediário/Avançado)</h5> 
+	  <h5> - CSS3 (Intermediário/Avançado)</h5>
    <ul>
 </div>
   <img align="center" alt="Vega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
